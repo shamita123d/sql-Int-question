@@ -17,7 +17,7 @@ SQL is mainly used for:
 - Inserting, updating, deleting, and querying data (DML — Data Manipulation Language),
 - Controlling access and permissions (DCL — Data Control Language).
 
- Syntax : 
+ Syntax :  
 CREATE DATABASE DatabaseName;
 
  USE DatabaseName;
