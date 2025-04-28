@@ -27,4 +27,24 @@ CREATE DATABASE Student;
 
 USE Student;
 
+# 4 What is PL/SQL?
+PL/SQL (Procedural Language/Structured Query Language) is Oracle’s extension to SQL that allows writing blocks of code containing SQL statements along with programming features like conditions, loops, and exception handling.It enables us to control the flow of execution using procedural logic inside the database itself.
+
+PL/SQL Control Statements in Oracle
+
+Control statements are very important in PL/SQL because they control the flow of the program.
+- Control statements decide which part of the code will run, when, and how many times.
+- Their syntax is easy to understand (similar to regular English).
+- They help in decision making and repetitive operations.
+
+Types of Control Statements (Branching and Looping)
+- IF statement
+- IF-THEN-ELSE statement
+- Nested IF statements
+- Branching with Logical Operators (AND, OR, NOT)
+- WHILE loop
+- FOR loop
+
+
+
 
