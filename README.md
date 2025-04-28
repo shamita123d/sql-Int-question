@@ -5,3 +5,12 @@ SQL Server is a Relational Database Management System (RDBMS) developed by Micro
 - It stores data in tables using rows and columns.
 - It supports ACID properties (Atomicity, Consistency, Isolation, Durability) to maintain data integrity.
 - You can perform CRUD operations (Create, Read, Update, Delete).
+
+# 2 What is Database?
+A database is an organized collection of data that can be easily accessed, managed, and updated. It stores information in a structured format using tables, and also includes schemas, queries, reports, views, and other objects to manage the data efficiently.
+
+ Syntax : 
+CREATE DATABASE DatabaseName;
+
+Example:
+CREATE DATABASE Student;
