@@ -9,8 +9,22 @@ SQL Server is a Relational Database Management System (RDBMS) developed by Micro
 # 2 What is Database?
 A database is an organized collection of data that can be easily accessed, managed, and updated. It stores information in a structured format using tables, and also includes schemas, queries, reports, views, and other objects to manage the data efficiently.
 
+# 3 What is SQL?
+Structured Query Language, also known as SQL, is a programming language designed for managing Relational Database Management Systems (RDBMSs). SQL is an International Organization for Standardization (ISO) standard. In RDBMS all the data is stored in tables with each table consisting of rows and columns.
+
+SQL is mainly used for:
+- Creating and modifying database structures (DDL — Data Definition Language),
+- Inserting, updating, deleting, and querying data (DML — Data Manipulation Language),
+- Controlling access and permissions (DCL — Data Control Language).
+
  Syntax : 
 CREATE DATABASE DatabaseName;
 
+ USE DatabaseName;
+
 Example:
 CREATE DATABASE Student;
+
+USE Student;
+
+
